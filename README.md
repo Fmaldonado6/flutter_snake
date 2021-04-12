@@ -1,16 +1,58 @@
-# flutter_snake
+<br />
+<p align="center">
 
-A new Flutter project.
+  <h1 align="center">Flutter Snake</h1>
+
+  <h2 align="center">
+    A simple snake game made with Flutter
+ 
+  </h2>
+  <br>
+  <p align="center">
+    <img  src="assets/2.jpg" alt="Logo" width="30%" >
+    <img  src="assets/1.jpg" alt="Logo" width="30%" >
+    <img  src="assets/3.jpg" alt="Logo" width="30%" >
+</p>
+
+  <br>
+</p>
+
+## About The Project
+
+Just a snake game developed with Flutter
+
+### Built With
+
+- Dart
+- [Flutter](https://flutter.dev/?gclid=CjwKCAiA1eKBBhBZEiwAX3gql7M0OFZG1Jut3GdjFAz_y2UPF_8S6W_XVwaTFqmpw5WqToqsGSkNURoCyrgQAvD_BwE&gclsrc=aw.ds)
+- [Flutter Bloc](https://pub.dev/packages/flutter_bloc)
+
+<!-- GETTING STARTED -->
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Before cloning the repo make sure you have installed
 
-A few resources to get you started if this is your first Flutter project:
+- [**Flutter**](https://flutter.dev/?gclid=CjwKCAiA1eKBBhBZEiwAX3gql7M0OFZG1Jut3GdjFAz_y2UPF_8S6W_XVwaTFqmpw5WqToqsGSkNURoCyrgQAvD_BwE&gclsrc=aw.ds)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Run command
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the app use the command:
+
+```
+flutter run
+```
+
+### Contribution
+
+1. Fork it!
+2. Create a branch for the feature you want to make: `git checkout -b my-new-feature`
+3. Commit changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request
+
+<!-- CONTACT -->
+
+## Contact
+
+Fernando Maldonado - [@Fmaldonado4202](https://twitter.com/Fmaldonado4202) - fmaldonado824@gmail.com
