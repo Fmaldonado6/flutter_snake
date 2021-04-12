@@ -32,7 +32,7 @@ class _GameScreenState extends State<GameScreen> {
     widgetHeight = widgetWidth / (3 / 4);
 
     if (widgetHeight > height - 180) {
-      widgetHeight = height - 20;
+      widgetHeight = height - 180;
       widgetWidth = widgetHeight * (3 / 4);
     }
 
